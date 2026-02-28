@@ -50,7 +50,16 @@ Possíveis falhas na experiência do cliente ou insatisfação com o serviço.
 - Python  
 - Pandas  
 - Plotly 
-- Google Colab  
+- Google Colab
+
+## Gráficos da Análise de Churn
+Aqui apresento os principais gráficos que ilustram os insights do projeto.
+
+## Distribuição de clientes ativos vs cancelados
+
+![Gráfico de clientes ativos e cancelados](images/Categoria.png)
+
+  
 
 ## Impacto Esperado
 - Redução da taxa de churn  
